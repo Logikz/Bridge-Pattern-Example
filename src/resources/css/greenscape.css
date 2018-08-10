@@ -1,0 +1,13 @@
+.root {
+  -fx-background-color: #54c6eb;
+}
+
+Text {
+  -fx-fill: #052f5f;
+  -fx-font-family: "fantasy";
+}
+
+Button {
+  -fx-background-color: #048a81;
+  -fx-text-fill: #052f5f;
+}

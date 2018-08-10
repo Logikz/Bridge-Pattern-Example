@@ -5,11 +5,8 @@ to install and run the application using Java.
 
 -Nick Cuneo
 
-
-
-
 # Implementation Description
-
+For the class project, assignment 7, I will cover the bridge pattern.
 
 
 # Setup

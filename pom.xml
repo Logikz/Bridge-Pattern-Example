@@ -141,6 +141,16 @@
 			</plugin>
 		</plugins>
 
+    <resources>
+      <resource>
+        <directory>
+          src/resources
+        </directory>
+        <includes>
+          <include>**/*.css</include>
+        </includes>
+      </resource>
+    </resources>
 	</build>
 
 	<dependencies>

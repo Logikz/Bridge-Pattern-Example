@@ -1,0 +1,13 @@
+.root {
+  -fx-background-color: black;
+}
+
+Text {
+  -fx-fill: white;
+  -fx-font-family: "monospace";
+}
+
+Button {
+  -fx-background-color: #8daa9d;
+  -fx-text-fill: #0f0e0e;
+}
