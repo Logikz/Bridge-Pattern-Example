@@ -6,7 +6,9 @@ to install and run the application using Java.
 -Nick Cuneo
 
 # Implementation Description
-For the class project, assignment 7, I will cover the bridge pattern.
+For the class project, assignment 7, I will cover the bridge pattern.  For more details on the
+assignment, see the powerpoint and the video file covering a presentation of the bridge pattern
+and my assignment.
 
 
 # Setup
@@ -77,9 +79,8 @@ CheckStyle code styling configuration files are in config/ directory. Maven chec
 
 # Unit Tests
 
-A sampling of unit tests are included to show functionality and to illustrate the design patterns
-ability to make testing easier.  The tests themselves are by no means complete nor offer full coverage
-of the assignment as it was not requested.
+Difficulty was found in attempting to write unit tests for this very simple UI application with almost
+no logic to be tested. Unit tests were skipped for this assignment due to time constraints.
 
 
 
